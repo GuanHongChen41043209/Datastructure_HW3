@@ -61,7 +61,8 @@ int main() {
     return 0;
 }
 ---
-## Insertion Sort 執行結果
+```
+## 執行結果
+<img width="266" height="161" alt="InsertionSortOutput" src="https://github.com/user-attachments/assets/ff74c2f0-28f8-4c8a-abff-cd184050b9fc" />
 
-<img width="266" height="161" alt="InsertionSortOutput" src="https://github.com/user-attachments/assets/589d03ac-2d86-43d3-b5f0-101c491298f9" />
-
+```
